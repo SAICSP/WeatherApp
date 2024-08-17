@@ -1,0 +1,13 @@
+.infobox{
+    text-align: center;
+        /* border-radius: 10px; */
+}
+.infobox:hover {
+        box-shadow: 16px 16px 15px black;
+        transition: ease-in-out 0.6s;
+        background-color: black;
+        color: #fff;
+}
+.city{
+    text-transform: capitalize;
+}
