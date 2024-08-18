@@ -1,4 +1,6 @@
 {
+  "start": "serve -s build",
+
   "engines":{
     "node":"20.10.0"
   },
