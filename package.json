@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "serve -s build",
-    "build": "vite build",
+    "build": "npx vite build",
     "preview": "vite preview",
     "dev": "vite",
     "lint": "eslint ."
