@@ -6,13 +6,11 @@
   "engines": {
     "node": "20.10.0"
   },
-
   "scripts": {
-  "start": "vite preview",
+    "start": "vite preview",
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "lint": "eslint ."
   },
   "dependencies": {
     "@emotion/react": "^11.13.0",
